@@ -1,0 +1,5 @@
+# The following folders and files will be ignored by git from getting committed
+
+node_modules/
+dist/
+.idea/
